@@ -57,7 +57,9 @@ The function returns a hashtable with the following properties:
 
   
 </p>
-
+<div align="center">
+  <sub>To access Dell TechDirect, you need <b>business customer status with Dell hardware under warranty or active service contracts</b> and must register as a company via techdirect.dell.com.</sub>
+</div>
 ## Security Note
 
 <div align="center">
