@@ -55,11 +55,9 @@ The function returns a hashtable with the following properties:
   <img src="https://img.shields.io/badge/PowerShell-3.0+-5391FE?style=flat-square&logo=powershell">
   <img src="https://img.shields.io/badge/Dell%20API-Credentials-blue?style=flat-square">
 
-  
-</p>
-<div align="center">
   <sub>To access Dell TechDirect, you need <b>business customer status with Dell hardware under warranty or active service contracts</b> and must register as a company via techdirect.dell.com.</sub>
-</div>
+</p>
+
 ## Security Note
 
 <div align="center">
