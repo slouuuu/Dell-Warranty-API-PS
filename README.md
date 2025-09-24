@@ -59,12 +59,6 @@ The function returns a hashtable with the following properties:
 </p>
 
 
-
-
-<div align="center">
-  <b>Store API credentials securely in production environments instead of hardcoding them.</b>
-</div>
-
 ------
 
 <div align="center">
