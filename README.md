@@ -15,7 +15,7 @@
 
 <br>
 
-## 🚀 Quick Start
+## Quick Start
 
 Replace the placeholder API credentials in the function:
 
@@ -24,27 +24,15 @@ $ApiKey = "your_actual_api_key"
 $ApiSecret = "your_actual_api_secret"
 ```
 
-Then use the function:
 
-```powershell
-$warranty = Get-DellWarrantyInfo -ServiceTag "ABC1234"
-```
-
-## 📋 Usage
+## Usage
 
 ### Basic usage
 ```powershell
 $warranty = Get-DellWarrantyInfo -ServiceTag "ABC1234"
 ```
 
-### Conditional usage (Dell devices only)
-```powershell
-if ($Vendor -like "*Dell*") {
-    $WarrantyInfo = Get-DellWarrantyInfo -ServiceTag $SerialNumber
-}
-```
-
-## 📤 Output
+## Output
 
 The function returns a hashtable with the following properties:
 
@@ -61,7 +49,7 @@ The function returns a hashtable with the following properties:
 
 </div>
 
-## 📋 Requirements
+## Requirements
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-3.0+-5391FE?style=flat-square&logo=powershell">
@@ -69,7 +57,7 @@ The function returns a hashtable with the following properties:
   <img src="https://img.shields.io/badge/Dell%20API-Credentials-blue?style=flat-square">
 </p>
 
-## ⚠️ Security Note
+## Security Note
 
 <div align="center">
   <b>Store API credentials securely in production environments instead of hardcoding them.</b>
