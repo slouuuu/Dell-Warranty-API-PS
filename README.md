@@ -20,8 +20,8 @@
 Replace the placeholder API credentials in the function:
 
 ```powershell
-$ApiKey = "your_actual_api_key"
-$ApiSecret = "your_actual_api_secret"
+$ApiKey = "api_key"
+$ApiSecret = "api_secret"
 ```
 
 
